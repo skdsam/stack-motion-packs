@@ -2,13 +2,33 @@
   "schema_version": "1.0",
   "packs": [
     {
+      "id": "cinematic_motion_volume_one",
+      "name": "Cinematic Motion Volume One",
+      "version": "1.0.0",
+      "summary": "A premium Stack Motion pack with 15 object animations and 10 text animations for cinematic reveals, product motion, and title sequences.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/cinematic_motion_volume_one_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": true,
+      "category": "Cinematic",
+      "min_stack_motion_version": "2.0.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 15,
+      "text_animation_count": 10,
+      "tags": [
+        "featured",
+        "cinematic",
+        "titles",
+        "product"
+      ]
+    },
+    {
       "id": "cinematic_starter",
       "name": "Cinematic Starter",
       "version": "1.0.0",
       "summary": "A starter Stack Motion pack with one object entrance and one text reveal animation.",
       "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/cinematic_starter_card.png",
       "purchase_url": "https://superhivemarket.com/creators/skdsam",
-      "featured": true,
+      "featured": false,
       "category": "Starter",
       "min_stack_motion_version": "2.0.0",
       "min_blender_version": "3.6.0",
