@@ -20,6 +20,27 @@
         "titles",
         "product"
       ]
+    },
+    {
+      "id": "camera_motion",
+      "name": "Camera Motion",
+      "version": "1.0.0",
+      "summary": "A camera-only Stack Motion pack with 18 target-aware camera moves, including orbit, dolly, crane, follow, dazed, boat sway, zoom, sweep, and focus-pull motion.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/camera_motion_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": true,
+      "category": "Camera",
+      "min_stack_motion_version": "2.1.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 18,
+      "text_animation_count": 0,
+      "tags": [
+        "featured",
+        "camera",
+        "cinematic",
+        "orbit",
+        "tracking"
+      ]
     }
   ]
 }
