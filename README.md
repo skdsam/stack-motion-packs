@@ -13,3 +13,4 @@ It should not contain paid pack ZIP files or paid animation source bundles.
 
 - Cinematic Motion Volume One: 25 object animations and 10 text animations.
 - Camera Motion: 18 camera-focused object animations with camera and target controls.
+- Kinetic Choreography: 20 premium selection-aware object animations for coordinated arrays, grids, rings, and motion-design systems.

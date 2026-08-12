@@ -41,6 +41,28 @@
         "orbit",
         "tracking"
       ]
+    },
+    {
+      "id": "kinetic_choreography",
+      "name": "Kinetic Choreography",
+      "version": "1.0.0",
+      "summary": "Twenty premium selection-aware object animations for coordinated arrays, grids, rings, relays, and motion-design systems.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/kinetic_choreography_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": true,
+      "category": "Motion Design",
+      "min_stack_motion_version": "2.1.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 20,
+      "text_animation_count": 0,
+      "tags": [
+        "featured",
+        "new",
+        "kinetic",
+        "arrays",
+        "motion-design"
+      ],
+      "recommended_for": "Product arrays, modular layouts, logo systems, and coordinated object choreography"
     }
   ]
 }
