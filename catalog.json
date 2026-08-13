@@ -63,6 +63,166 @@
         "motion-design"
       ],
       "recommended_for": "Product arrays, modular layouts, logo systems, and coordinated object choreography"
+    },
+    {
+      "id": "logo_reveals",
+      "name": "Logo Reveals",
+      "version": "1.0.0",
+      "summary": "Sixteen polished logo assemblies, reveals, accents, and exits for single-object or multi-part identities.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/logo_reveals_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Brand Motion",
+      "min_stack_motion_version": "2.2.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 16,
+      "text_animation_count": 0,
+      "tags": [
+        "logo-reveals",
+        "object",
+        "new"
+      ],
+      "recommended_for": "Logo animation, brand idents, creator intros, end cards, and multi-part marks"
+    },
+    {
+      "id": "product_showcase",
+      "name": "Product Showcase",
+      "version": "1.0.0",
+      "summary": "Sixteen coordinated product, component, inspection, assembly, and hero-shot animations.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/product_showcase_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Product",
+      "min_stack_motion_version": "2.2.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 16,
+      "text_animation_count": 0,
+      "tags": [
+        "product-showcase",
+        "object",
+        "new"
+      ],
+      "recommended_for": "Product advertising, e-commerce renders, technical breakdowns, and portfolio shots"
+    },
+    {
+      "id": "broadcast_titles",
+      "name": "Broadcast Titles",
+      "version": "1.0.0",
+      "summary": "Eighteen editable broadcast-style title animations with designed entrances and settles.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/broadcast_titles_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Titles",
+      "min_stack_motion_version": "2.2.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 0,
+      "text_animation_count": 18,
+      "tags": [
+        "broadcast-titles",
+        "text",
+        "new"
+      ],
+      "recommended_for": "Lower thirds, editorial videos, sports graphics, corporate films, and information cards"
+    },
+    {
+      "id": "ui_hud_motion",
+      "name": "UI/HUD Motion",
+      "version": "1.0.0",
+      "summary": "Eighteen modular interface, scanner, reticle, diagnostic, and system-state animations.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/ui_hud_motion_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "UI Motion",
+      "min_stack_motion_version": "2.2.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 18,
+      "text_animation_count": 0,
+      "tags": [
+        "ui-hud-motion",
+        "object",
+        "new"
+      ],
+      "recommended_for": "Sci-fi interfaces, game cinematics, diagnostics, data displays, and HUD elements"
+    },
+    {
+      "id": "mechanical_systems",
+      "name": "Mechanical Systems",
+      "version": "1.0.0",
+      "summary": "Eighteen precise machine, piston, lock, calibration, and assembly animations.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/mechanical_systems_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Mechanical",
+      "min_stack_motion_version": "2.2.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 18,
+      "text_animation_count": 0,
+      "tags": [
+        "mechanical-systems",
+        "object",
+        "new"
+      ],
+      "recommended_for": "Industrial visualization, sci-fi mechanisms, hard-surface scenes, and technical motion"
+    },
+    {
+      "id": "organic_motion",
+      "name": "Organic Motion",
+      "version": "1.0.0",
+      "summary": "Eighteen deterministic breathing, growth, bloom, swarm, drift, and living-field animations.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/organic_motion_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Organic",
+      "min_stack_motion_version": "2.2.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 18,
+      "text_animation_count": 0,
+      "tags": [
+        "organic-motion",
+        "object",
+        "new"
+      ],
+      "recommended_for": "Abstract motion, plants, wellness visuals, colonies, soft forms, and ambient loops"
+    },
+    {
+      "id": "social_video",
+      "name": "Social Video",
+      "version": "1.0.0",
+      "summary": "Eighteen high-energy caption, prompt, reaction, callout, and vertical-video text animations.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/social_video_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Social",
+      "min_stack_motion_version": "2.2.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 0,
+      "text_animation_count": 18,
+      "tags": [
+        "social-video",
+        "text",
+        "new"
+      ],
+      "recommended_for": "Short-form video, creator captions, marketing callouts, educational clips, and end cards"
+    },
+    {
+      "id": "transitions",
+      "name": "Transitions",
+      "version": "1.0.0",
+      "summary": "Sixteen coordinated wipes, swaps, pushes, portals, exchanges, and seamless object transitions.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/transitions_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Transitions",
+      "min_stack_motion_version": "2.2.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 16,
+      "text_animation_count": 0,
+      "tags": [
+        "transitions",
+        "object",
+        "new"
+      ],
+      "recommended_for": "Scene changes, product swaps, collection transitions, motion-design edits, and camera-led cuts"
     }
   ]
 }
