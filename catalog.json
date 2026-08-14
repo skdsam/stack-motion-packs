@@ -22,6 +22,27 @@
       ]
     },
     {
+      "id": "kinetic_physics",
+      "name": "Kinetic Physics",
+      "version": "1.0.0",
+      "summary": "Thirty-five physics-inspired object animations spanning springs, pendulums, magnetics, fluids, projectiles, impacts, rotation dynamics, and atmospheric forces.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/kinetic_physics_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Physics",
+      "min_stack_motion_version": "2.0.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 35,
+      "text_animation_count": 0,
+      "tags": [
+        "kinetic-physics",
+        "object",
+        "physics",
+        "new"
+      ],
+      "recommended_for": "Physics-driven motion, impacts, orbital systems, fluid effects, dynamic rotations, and atmospheric animation"
+    },
+    {
       "id": "camera_motion",
       "name": "Camera Motion",
       "version": "1.0.0",
