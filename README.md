@@ -11,13 +11,16 @@ It should not contain paid pack ZIP files or paid animation source bundles.
 
 ## Catalog image requirements
 
-Every catalog image must display the pack's full name as clear, legible text. The title must use the exact name from `catalog.json` and remain readable at catalog-thumbnail size.
+1. **Title Legibility:** Every catalog image must display the pack's full name as clear, legible text matching `catalog.json` verbatim, readable at catalog-thumbnail size.
+2. **Dimensions & Aspect Ratio:** `1:1` square (recommended `800x800` pixels).
+3. **Compression & Size Limit:** Must be optimized and compressed under `< 400 KB` (recommended target: 150–350 KB) to ensure rapid downloading and caching when Blender refreshes the remote pack store.
 
 ## Current catalog
 
 - Cinematic Motion Volume One: 25 object animations and 10 text animations.
-- Camera Motion: 18 camera-focused object animations with camera and target controls.
+- Camera Motion: 35 camera-focused object animations with camera and target controls.
 - Kinetic Choreography: 20 premium selection-aware object animations for coordinated arrays, grids, rings, and motion-design systems.
+- Kinetic Physics: 35 physics-driven procedural animations.
 
 ## New product catalog
 
