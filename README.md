@@ -9,6 +9,10 @@ This repository is intended to host:
 
 It should not contain paid pack ZIP files or paid animation source bundles.
 
+## Catalog image requirements
+
+Every catalog image must display the pack's full name as clear, legible text. The title must use the exact name from `catalog.json` and remain readable at catalog-thumbnail size.
+
 ## Current catalog
 
 - Cinematic Motion Volume One: 25 object animations and 10 text animations.
