@@ -13,22 +13,19 @@ It should not contain paid pack ZIP files or paid animation source bundles.
 
 1. **Title Legibility:** Every catalog image must display the pack's full name as clear, legible text matching `catalog.json` verbatim, readable at catalog-thumbnail size.
 2. **Dimensions & Aspect Ratio:** `1:1` square (recommended `800x800` pixels).
-3. **Compression & Size Limit:** Must be optimized and compressed under `< 400 KB` (recommended target: 150–350 KB) to ensure rapid downloading and caching when Blender refreshes the remote pack store.
+3. **Compression & Size Limit:** Must be optimized and compressed under `400 KB` (recommended target: 150-350 KB) to ensure rapid downloading and caching when Blender refreshes the remote pack store.
 
 ## Current catalog
 
-- Cinematic Motion Volume One: 25 object animations and 10 text animations.
-- Camera Motion: 35 camera-focused object animations with camera and target controls.
-- Kinetic Choreography: 20 premium selection-aware object animations for coordinated arrays, grids, rings, and motion-design systems.
-- Kinetic Physics: 35 physics-driven procedural animations.
-
-## New product catalog
-
-- Logo Reveals: 16 object animations, 0 text animations.
-- Product Showcase: 16 object animations, 0 text animations.
-- Broadcast Titles: 0 object animations, 18 text animations.
-- UI/HUD Motion: 18 object animations, 0 text animations.
-- Mechanical Systems: 18 object animations, 0 text animations.
-- Organic Motion: 18 object animations, 0 text animations.
-- Social Video: 0 object animations, 18 text animations.
-- Transitions: 16 object animations, 0 text animations.
+- Broadcast Titles `1.1.2`: 0 object / 35 text
+- Camera Motion `1.2.0`: 35 object / 0 text
+- Cinematic Motion Volume One `1.3.0`: 25 object / 10 text
+- Kinetic Choreography `1.2.0`: 35 object / 0 text
+- Kinetic Physics `1.1.0`: 35 object / 0 text
+- Logo Reveals `1.1.0`: 35 object / 0 text
+- Mechanical Systems `1.1.0`: 35 object / 0 text
+- Organic Motion `1.1.0`: 35 object / 0 text
+- Product Showcase `1.1.0`: 35 object / 0 text
+- Social Video `1.1.2`: 0 object / 35 text
+- Transitions `1.1.0`: 35 object / 0 text
+- UI/HUD Motion `1.1.0`: 35 object / 0 text
