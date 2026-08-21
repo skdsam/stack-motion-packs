@@ -2,6 +2,22 @@
   "schema_version": "1.0",
   "packs": [
     {
+      "id": "multi_object_ensemble",
+      "name": "Multi-Object Ensemble",
+      "version": "1.0.0",
+      "summary": "Thirty-five selection-native animations for formations, paired choreography, graph motion, fields, and coordinated object ensembles.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/multi_object_ensemble_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Motion Design",
+      "min_stack_motion_version": "2.7.0",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 35,
+      "text_animation_count": 0,
+      "tags": ["multi-object", "ensemble", "formations", "choreography"],
+      "recommended_for": "Object groups, product arrays, modular scenes, formations, partner motion, and coordinated spatial systems"
+    },
+    {
       "id": "cinematic_motion_volume_one",
       "name": "Cinematic Motion Volume One",
       "version": "1.3.0",
