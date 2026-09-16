@@ -29,3 +29,4 @@ It should not contain paid pack ZIP files or paid animation source bundles.
 - Social Video `1.1.2`: 0 object / 35 text
 - Transitions `1.1.0`: 35 object / 0 text
 - UI/HUD Motion `1.1.0`: 35 object / 0 text
+- Spatial Illusions `1.0.0`: 35 object / 0 text

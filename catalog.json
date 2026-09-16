@@ -260,6 +260,27 @@
         "new"
       ],
       "recommended_for": "Scene changes, product swaps, collection transitions, motion-design edits, and camera-led cuts"
+    },
+    {
+      "id": "spatial_illusions",
+      "name": "Spatial Illusions",
+      "version": "1.0.0",
+      "summary": "35 selection-aware object animations for spatial illusions, impossible geometry, folding mechanisms, orbital exchanges, and kinetic fields.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/spatial_illusions_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Motion Design",
+      "min_stack_motion_version": "2.7.0",
+      "min_blender_version": "3.6.0",
+      "tags": [
+        "multi-object",
+        "spatial-illusions",
+        "geometry",
+        "choreography"
+      ],
+      "recommended_for": "Geometric motion design, kinetic sculptures, modular product groups, optical illusions, and coordinated object formations",
+      "object_animation_count": 35,
+      "text_animation_count": 0
     }
   ]
 }
