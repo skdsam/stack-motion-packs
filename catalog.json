@@ -14,7 +14,12 @@
       "min_blender_version": "3.6.0",
       "object_animation_count": 35,
       "text_animation_count": 0,
-      "tags": ["multi-object", "ensemble", "formations", "choreography"],
+      "tags": [
+        "multi-object",
+        "ensemble",
+        "formations",
+        "choreography"
+      ],
       "recommended_for": "Object groups, product arrays, modular scenes, formations, partner motion, and coordinated spatial systems"
     },
     {
@@ -279,6 +284,27 @@
         "choreography"
       ],
       "recommended_for": "Geometric motion design, kinetic sculptures, modular product groups, optical illusions, and coordinated object formations",
+      "object_animation_count": 35,
+      "text_animation_count": 0
+    },
+    {
+      "id": "object_alchemy",
+      "name": "Object Alchemy",
+      "version": "1.0.1",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/object_alchemy_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "category": "Motion Design",
+      "min_stack_motion_version": "2.8.1",
+      "min_blender_version": "3.6.0",
+      "tags": [
+        "single-object",
+        "deformation",
+        "geometry",
+        "motion-design"
+      ],
+      "recommended_for": "Single-object performances, twisting ribbons, product transformations, surface waves and procedural mesh motion",
+      "summary": "35 single-object animations: 12 authored performances and 23 non-destructive mesh deformations.",
       "object_animation_count": 35,
       "text_animation_count": 0
     }
