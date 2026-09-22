@@ -2,6 +2,27 @@
   "schema_version": "1.0",
   "packs": [
     {
+      "id": "auteur",
+      "name": "Auteur - Filmic Camera Studies",
+      "version": "1.0.0",
+      "summary": "35 authored cinematic camera studies: deliberate reveals, spatial journeys, observational motion and expressive framing.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/auteur_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": true,
+      "category": "Cinematic",
+      "min_stack_motion_version": "2.8.2",
+      "min_blender_version": "3.6.0",
+      "object_animation_count": 35,
+      "text_animation_count": 0,
+      "tags": [
+        "camera",
+        "cinematic",
+        "filmic",
+        "auteur"
+      ],
+      "recommended_for": "Filmic camera staging, architectural reveals, product cinematography and narrative shots"
+    },
+    {
       "id": "multi_object_ensemble",
       "name": "Multi-Object Ensemble",
       "version": "1.1.1",
