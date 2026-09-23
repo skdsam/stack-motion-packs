@@ -26,7 +26,7 @@
       "id": "multi_object_ensemble",
       "name": "Multi-Object Ensemble",
       "version": "1.1.1",
-      "summary": "Thirty-five selection-native animations for formations, paired choreography, graph motion, fields, and coordinated object ensembles.",
+      "summary": "Thirty-five selection-native animations for formations, pair systems, graph motion, fields, and coordinated object ensembles.",
       "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/multi_object_ensemble_card.png",
       "purchase_url": "https://superhivemarket.com/creators/skdsam",
       "featured": false,
@@ -349,6 +349,72 @@
       "summary": "35 single-object animations: 12 authored kinetic performances and 23 non-destructive procedural mesh deformations.",
       "object_animation_count": 35,
       "text_animation_count": 0
+    },
+    {
+      "id": "hologram_resolve",
+      "name": "Hologram Resolve",
+      "version": "0.1.0",
+      "min_stack_motion_version": "2.8.3",
+      "min_blender_version": "3.6.0",
+      "summary": "35 procedural hologram reconstruction animations for mesh objects.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/hologram_resolve_card.png",
+      "purchase_url": "",
+      "featured": false,
+      "object_animation_count": 35,
+      "text_animation_count": 0,
+      "category": "Motion Design",
+      "tags": [
+        "hologram",
+        "object",
+        "geometry-nodes",
+        "reveal"
+      ],
+      "recommended_for": "Procedural mesh reconstruction and holographic object reveals",
+      "coming_soon": true,
+      "sale_text": "Preview - public release pending",
+      "private_preview": true
+    },
+    {
+      "id": "neon_afterhours",
+      "name": "Neon Afterhours",
+      "version": "1.0.0",
+      "min_stack_motion_version": "2.8.2",
+      "min_blender_version": "3.6.0",
+      "summary": "35 emissive cyberpunk text performances: neon circuits, colour tides, raster signs, plasma and spectral echoes.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/neon_afterhours_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "object_animation_count": 0,
+      "text_animation_count": 35,
+      "category": "Typography",
+      "tags": [
+        "text",
+        "neon",
+        "cyberpunk",
+        "emissive"
+      ],
+      "recommended_for": "Neon titles, nightlife graphics and futuristic typography"
+    },
+    {
+      "id": "paper_ink",
+      "name": "Paper & Ink",
+      "version": "1.0.0",
+      "min_stack_motion_version": "2.8.2",
+      "min_blender_version": "3.6.0",
+      "summary": "35 tactile text animations: folded paper, wet ink, printmaking, cutouts and physical paper fragments.",
+      "image_url": "https://raw.githubusercontent.com/skdsam/stack-motion-packs/main/images/paper_ink_card.png",
+      "purchase_url": "https://superhivemarket.com/creators/skdsam",
+      "featured": false,
+      "object_animation_count": 0,
+      "text_animation_count": 35,
+      "category": "Typography",
+      "tags": [
+        "text",
+        "paper",
+        "ink",
+        "printmaking"
+      ],
+      "recommended_for": "Tactile titles, editorial typography and handmade motion graphics"
     }
   ]
 }
